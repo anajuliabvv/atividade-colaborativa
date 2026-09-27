@@ -6,3 +6,4 @@
 - Cria√ß√£o da tela de cadastro
 - Adi√ß√£o da confirma√ß√£o de cadastro
 - Corre√ß√£o do preenchimento do cadastro- CriaÁ„o da lista de produtos
+- CorreÁ„o da exibiÁ„o dos produtos
