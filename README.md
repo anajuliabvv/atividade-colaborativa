@@ -8,4 +8,4 @@
 - Correção do preenchimento do cadastro
 - Criação da lista de produtos
 - Adição dos detalhes dos produtos
-- Correção da exibição dos produtos
+- Correção da exibição dos produtos- Cria��o da etapa de pagamento
