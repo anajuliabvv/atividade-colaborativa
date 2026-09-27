@@ -2,5 +2,7 @@
 
 - Criação da tela de login
 - Correção do acesso ao login
-- Adição da validação dos dados de login- Cria��o da tela de cadastro
-- Corre��o do preenchimento do cadastro
+- Adição da validação dos dados de login
+- Criação da tela de cadastro
+- Adição da confirmação de cadastro
+- Correção do preenchimento do cadastro
