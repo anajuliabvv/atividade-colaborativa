@@ -5,5 +5,7 @@
 - Adição da validação dos dados de login
 - Criação da tela de cadastro
 - Adição da confirmação de cadastro
-- Correção do preenchimento do cadastro- Cria��o da lista de produtos
-- Adi��o dos detalhes dos produtos
+- Correção do preenchimento do cadastro
+- Criação da lista de produtos
+- Adição dos detalhes dos produtos
+- Correção da exibição dos produtos
