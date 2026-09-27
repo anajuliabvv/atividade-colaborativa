@@ -9,3 +9,4 @@
 - Criação da lista de produtos
 - Adição dos detalhes dos produtos
 - Correção da exibição dos produtos- Cria��o da etapa de pagamento
+- Corre��o do processamento do pagamento
