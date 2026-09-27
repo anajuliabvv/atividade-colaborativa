@@ -1,3 +1,5 @@
 # Atividade Colaborativa
-- CriaÁ„o da tela de login
-- AdiÁ„o da validaÁ„o dos dados de login
+
+- Cria√ß√£o da tela de login
+- Corre√ß√£o do acesso ao login
+- Adi√ß√£o da valida√ß√£o dos dados de login
