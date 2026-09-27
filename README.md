@@ -9,3 +9,4 @@
 - Cria√ß√£o da lista de produtos
 - Adi√ß√£o dos detalhes dos produtos
 - Corre√ß√£o da exibi√ß√£o dos produtos- CriaÁ„o da etapa de pagamento
+- AdiÁ„o da confirmaÁ„o do pagamento
